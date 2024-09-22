@@ -87,7 +87,7 @@ Customers were assigned scores from 1 (lowest) to 5 (highest) for each metric, a
 For a detailed analysis of all customer segments and their performance metrics, refer to the Jupyter Notebook file (`RFM Analysis - Online Retail.ipynb`), which includes in-depth visualizations and RFM segmentation strategies.
 
 ## Files Included
-- **online_retail_II.xlsx**: The dataset used for analysis.
+- **online_retail_II.xlsx**: The dataset used for analysis (download from [this link](https://archive.ics.uci.edu/ml/datasets/Online+Retail)).
 - **RFM Analysis - Online Retail.ipynb**: Jupyter Notebook containing the analysis, visualizations, and RFM segmentation strategies.
 
 ## Conclusion
